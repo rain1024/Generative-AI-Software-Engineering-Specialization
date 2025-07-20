@@ -113,103 +113,125 @@ npm run dev
 
 ## 🎓 Complete Course Curriculum
 
-> **3 Comprehensive Courses | 15+ Hours | Taught by Laurence Moroney (Former AI Lead at Google)**
+> **4 Comprehensive Courses | 40+ Hours | Claude Code: Software Engineering with Generative AI Agents**
 
-### 📚 Course 1: Introduction to Generative AI for Software Development
-**🎯 Foundation Course - Master the Fundamentals**
+### 📚 Course 1: Claude Code: Software Engineering with Generative AI Agents
+**🎯 Foundation Course - 5 Hours**
 
 **Core Learning Objectives:**
-- Compare and contrast machine learning with traditional software development
-- Describe how Large Language Models (LLMs) generate text and code
-- Prompt LLMs to assist with core software development tasks
-- Guide LLMs through detailed prompts and iterative improvement
-- Utilize expert knowledge encoded in LLMs by prompting specific job roles
+- Master Claude Code CLI for AI-assisted software development
+- Learn to integrate AI agents into your development workflow
+- Understand how to leverage generative AI for code generation and debugging
+- Build proficiency with AI-powered development environments
 
 **Key Skills Developed:**
-- 🤖 **LLM Integration**: Use AI as your pair programming partner
-- 🔍 **Code Analysis**: Analyze code for efficiency, security, and performance
-- ⚡ **Rapid Development**: Write code quickly with AI assistance
-- 🧪 **Testing**: Leverage AI to write and implement comprehensive test cases
-- 💼 **Interview Prep**: Study and practice with AI guidance
+- 🤖 **AI Agent Integration**: Use Claude Code as your primary development assistant
+- 🔧 **CLI Mastery**: Command-line interface for efficient AI-assisted coding
+- ⚡ **Rapid Prototyping**: Quick application development with AI guidance
+- 🎯 **Agentic Workflows**: Implement AI agents for automated development tasks
 
 **Technologies Covered:**
-- Large Language Models (GPT-4, ChatGPT)
-- Prompt Engineering Techniques
-- AI-Assisted Code Generation
-- Machine Learning Fundamentals
+- Claude Code CLI
+- Generative AI Agents
+- AI-Assisted Development Workflows
+- Command-Line Tools
 
 ---
 
-### 🏗️ Course 2: Team Software Engineering with AI
-**👥 Collaborative Development - Scale Your AI Skills**
+### 🏗️ Course 2: AI Agents and Agentic AI with Python & Generative AI
+**🐍 Advanced AI Integration - 10 Hours**
 
 **Focus Areas:**
-- **Team Collaboration**: Integrate AI tools in team-based development workflows
-- **Code Review**: AI-enhanced code quality assurance and peer review
-- **Version Control**: Advanced Git strategies with AI assistance
-- **Project Management**: Agile methodologies enhanced by AI tools
-- **Documentation**: Auto-generated documentation and technical writing
+- **Agentic AI Systems**: Build intelligent AI agents with Python
+- **LLM Integration**: Advanced techniques for working with large language models
+- **Autonomous Workflows**: Create self-directed AI development assistants
+- **Python Frameworks**: Leverage Python for AI agent development
+
+**Key Technologies:**
+- 🐍 **Python**: Core programming language for AI agents
+- 🤖 **Agentic AI**: Autonomous AI system development
+- 🧠 **LLM APIs**: Integration with ChatGPT, Claude, and other models
+- 🔄 **Workflow Automation**: Intelligent task automation
 
 **Practical Applications:**
-- Multi-developer AI-assisted projects
-- Collaborative coding standards and practices
-- AI-powered code review and feedback systems
-- Team productivity optimization with AI tools
-
-**Real-World Projects:**
-- 🏪 **E-commerce Database System**: Complex multi-table relationships
-- 💰 **Financial Services Application**: Secure, scalable architecture
-- 🌐 **Social Network Database**: User interactions and data modeling
+- Building custom AI development assistants
+- Automated code review and testing agents
+- Intelligent project management systems
+- AI-powered debugging and optimization tools
 
 ---
 
-### 🚀 Course 3: AI-Powered Software and System Design
-**🏛️ Advanced Architecture - Build Production-Ready Systems**
+### 🚀 Course 3: Prompt Engineering for ChatGPT
+**💬 Mastering AI Communication - 18 Hours**
 
 **Advanced Topics:**
-- **System Architecture**: Design scalable applications with AI guidance
-- **Database Management**: Advanced SQLAlchemy and SQLite integration
-- **Design Patterns**: Implement industry-standard patterns with AI assistance
-- **API Integration**: Work with external APIs (DALL-E, GPT-4)
-- **Performance Optimization**: AI-driven code and system optimization
+- **Prompt Design**: Craft effective prompts for software development tasks
+- **Context Management**: Maintain conversation context for complex projects
+- **Role-Based Prompting**: Use AI personas for specialized development roles
+- **Iterative Refinement**: Improve AI responses through strategic prompting
+
+**Core Skills:**
+- 📝 **Prompt Optimization**: Write prompts that generate high-quality code
+- 🎭 **AI Personas**: Leverage role-based AI for different development tasks
+- 🔄 **Iterative Development**: Use AI feedback loops for continuous improvement
+- 📊 **Context Engineering**: Manage complex project contexts effectively
 
 **Technologies & Frameworks:**
-- 🐍 **Python**: Advanced programming concepts
-- 🗄️ **SQLAlchemy**: Object-relational mapping
-- 💾 **SQLite**: Database design and optimization
-- 📊 **JSON & Pickle**: Data serialization and storage
-- 🎨 **DALL-E API**: AI image generation integration
-- 🧠 **LLMs**: Production-level AI integration
+- 💬 **ChatGPT**: Advanced prompting techniques
+- 🎯 **Prompt Templates**: Reusable prompt patterns for development
+- 🔧 **API Integration**: ChatGPT API for custom applications
+- 📋 **Context Management**: Strategies for maintaining conversation flow
 
-**Capstone Project:**
-- 🖼️ **Configurable Image Generation App**: Full-stack application with AI integration
-- Complete end-to-end development cycle
-- Database design and implementation
-- API integration and error handling
-- User interface and experience design
-- Deployment and production considerations
+---
+
+### 🎨 Course 4: OpenAI GPTs: Creating Your Own Custom AI Assistants
+**🛠️ Custom AI Development - 7 Hours**
+
+**Specialization Focus:**
+- **Custom GPT Creation**: Build specialized AI assistants for development tasks
+- **GPT Store Publishing**: Deploy and share your custom AI assistants
+- **Integration Strategies**: Connect GPTs with external tools and APIs
+- **Production Deployment**: Scale custom AI assistants for team use
+
+**Advanced Applications:**
+- 🎨 **Custom AI Assistants**: Build domain-specific development tools
+- 🏪 **GPT Store**: Publish and monetize your AI creations
+- 🔗 **API Integrations**: Connect GPTs with development tools
+- 📈 **Scaling Solutions**: Deploy AI assistants across development teams
+
+**Capstone Projects:**
+- 🛠️ **Custom Development GPT**: Specialized AI for your tech stack
+- 📊 **Project Management Assistant**: AI-powered team collaboration tool
+- 🔍 **Code Review GPT**: Automated code quality and security analysis
+- 🚀 **Deployment Assistant**: AI-guided application deployment and monitoring
 
 ---
 
 ## 🎯 Complete Learning Journey
 
-### **Beginner Level** (Course 1)
-✅ Master AI fundamentals for software development  
-✅ Learn prompt engineering and LLM interaction  
-✅ Build confidence in AI-assisted coding  
-✅ Understand machine learning vs traditional development  
+### **Foundation Level** (Course 1 - 5 Hours)
+✅ Master Claude Code CLI for AI-assisted development  
+✅ Learn generative AI agent integration  
+✅ Build confidence in AI-powered development environments  
+✅ Understand agentic workflows for automation  
 
-### **Intermediate Level** (Course 2)  
-✅ Scale AI skills to team environments  
-✅ Implement collaborative development workflows  
-✅ Master version control and code review with AI  
-✅ Build complex, multi-component applications  
+### **Integration Level** (Course 2 - 10 Hours)  
+✅ Build intelligent AI agents with Python  
+✅ Implement autonomous AI development workflows  
+✅ Master LLM APIs and integration techniques  
+✅ Create custom AI development assistants  
 
-### **Advanced Level** (Course 3)
-✅ Design production-ready systems with AI  
-✅ Integrate multiple technologies and APIs  
-✅ Implement industry-standard design patterns  
-✅ Deploy and maintain AI-powered applications  
+### **Communication Level** (Course 3 - 18 Hours)
+✅ Master advanced prompt engineering for ChatGPT  
+✅ Design effective AI communication strategies  
+✅ Implement role-based AI personas for development  
+✅ Optimize AI responses through iterative prompting  
+
+### **Specialization Level** (Course 4 - 7 Hours)
+✅ Create custom GPTs for specialized development tasks  
+✅ Publish and deploy AI assistants to GPT Store  
+✅ Integrate custom GPTs with external APIs and tools  
+✅ Scale AI solutions across development teams  
 
 ---
 
@@ -218,47 +240,47 @@ npm run dev
 **By completing this specialization, you will:**
 
 🎯 **Technical Mastery**
-- Integrate generative AI tools throughout the entire software development lifecycle
-- Use LLMs as effective pair programming partners
-- Implement advanced design patterns and database management systems
-- Build scalable, production-ready applications with AI assistance
+- Master Claude Code CLI and AI agent integration for development
+- Build intelligent AI agents with Python and generative AI
+- Create custom GPTs and deploy them to production environments
+- Implement advanced prompt engineering techniques for optimal AI communication
 
 💡 **Professional Skills**
-- Collaborate effectively in AI-enhanced development teams
-- Apply machine learning techniques to software engineering challenges
-- Optimize development workflows with AI tools
-- Design and implement complex system architectures
+- Design and deploy custom AI assistants for specialized development tasks
+- Optimize AI workflows through strategic prompting and context management
+- Scale AI solutions across development teams and organizations
+- Integrate multiple AI tools and APIs for comprehensive development pipelines
 
 🚀 **Career Advancement**
-- Position yourself at the forefront of AI-powered software development
-- Demonstrate expertise in cutting-edge development methodologies
-- Build a portfolio of advanced AI-integrated applications
-- Prepare for roles in modern software engineering teams
+- Position yourself as an expert in agentic AI and generative development tools
+- Build a portfolio of custom AI assistants and automated development workflows
+- Demonstrate proficiency with cutting-edge AI development methodologies
+- Prepare for leadership roles in AI-enhanced software engineering teams
 
 ---
 
 ## 🏆 Skills Demonstrated
 
 ### 💻 Technical Skills
-- **Backend Development**: Python, SQLAlchemy, SQLite, JSON, Pickle
+- **AI Agent Development**: Claude Code CLI, Python-based AI agents
+- **Custom GPT Creation**: OpenAI GPT development and deployment
 - **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS
-- **API Integration**: DALL-E API, GPT-4 API, RESTful services
-- **Database Design**: Multi-table relationships, ORM, data modeling
-- **Version Control**: Git workflows with AI assistance
+- **API Integration**: ChatGPT API, Claude API, GPT Store integration
+- **CLI Mastery**: Command-line tools and AI-assisted development
 
 ### 🤖 AI Integration Skills
-- **LLM Mastery**: GPT-4, ChatGPT integration and optimization
-- **Prompt Engineering**: Advanced prompting techniques and role-based AI
-- **AI Pair Programming**: Real-time code generation and debugging
-- **Code Analysis**: AI-powered security, performance, and efficiency analysis
-- **Testing Automation**: AI-generated test cases and validation
+- **Agentic AI**: Autonomous AI system development and deployment
+- **Advanced Prompting**: Strategic prompt engineering for ChatGPT
+- **AI Agent Orchestration**: Multi-agent workflows and automation
+- **Custom AI Assistants**: Domain-specific GPT creation and optimization
+- **Context Management**: Complex conversation flow and memory systems
 
 ### 🔧 Professional Skills
-- **System Architecture**: Scalable application design with AI guidance
-- **Design Patterns**: Industry-standard patterns with AI implementation
-- **Team Collaboration**: AI-enhanced code review and team workflows
-- **Performance Optimization**: AI-driven code and system optimization
-- **Production Deployment**: End-to-end application lifecycle management
+- **AI Workflow Design**: End-to-end AI-enhanced development pipelines
+- **Team AI Adoption**: Scaling AI tools across development organizations
+- **Custom Tool Development**: Building specialized AI development assistants
+- **AI Strategy**: Strategic implementation of AI in software engineering
+- **Production AI Deployment**: Enterprise-scale AI assistant deployment
 
 ---
 
@@ -337,11 +359,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *Mastering modern software engineering through the lens of generative AI*
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-CLI-7c3aed?logo=anthropic)](https://claude.ai/code)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?logo=python)](https://www.python.org/)
-[![GPT-4](https://img.shields.io/badge/GPT--4-AI%20Integration-00a67e?logo=openai)](https://openai.com/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-d71f00?logo=sqlalchemy)](https://www.sqlalchemy.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-15.4.2-black?logo=next.js)](https://nextjs.org/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-API-00a67e?logo=openai)](https://openai.com/chatgpt)
+[![Custom GPTs](https://img.shields.io/badge/Custom%20GPTs-Development-ff6b6b?logo=openai)](https://openai.com/gpts)
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Automation-8b5cf6?logo=ai)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![DALL-E](https://img.shields.io/badge/DALL--E-API-ff6b6b?logo=openai)](https://openai.com/dall-e-2)
 
 </div>
