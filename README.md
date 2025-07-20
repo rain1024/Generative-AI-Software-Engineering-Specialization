@@ -84,9 +84,9 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 
 ## 🙏 Credits
 
-- **University of Michigan** for the [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-- [Dr. Charles Russell Severance (Dr. Chuck)](https://www.coursera.org/instructor/drchuck) for his outstanding teaching
-- [Coursera](https://www.coursera.org/) for the great platform
+- **DeepLearning.AI** for the [Generative AI for Software Development Professional Certificate](https://www.deeplearning.ai/courses/generative-ai-for-software-development/)
+- **Laurence Moroney** (Former AI Lead at Google) for his excellent instruction and guidance
+- [Coursera](https://www.coursera.org/) for providing the learning platform
 
 ---
 
