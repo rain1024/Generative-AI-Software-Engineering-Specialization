@@ -14,9 +14,7 @@
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Automation-8b5cf6?logo=ai)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 
-Mastering the Future of Software Development with AI-Powered Tools. Building the Future with AI-Powered Development
-
-*Mastering modern software engineering through the lens of generative AI*
+Advance your software engineering skills by mastering modern development practices with AI-powered and generative AI tools.
 
 **Specialization Link:** [Generative AI Software Engineering Specialization](https://www.coursera.org/specializations/generative-ai-software-engineering)
 
