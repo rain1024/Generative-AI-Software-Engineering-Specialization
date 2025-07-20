@@ -7,12 +7,6 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen">
 </p>
 
-**Mastering the Future of Software Development with AI-Powered Tools**
-
-**🚀 Building the Future with AI-Powered Development**
-
-*Mastering modern software engineering through the lens of generative AI*
-
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-CLI-7c3aed?logo=anthropic)](https://claude.ai/code)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?logo=python)](https://www.python.org/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-API-00a67e?logo=openai)](https://openai.com/chatgpt)
@@ -20,7 +14,11 @@
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Automation-8b5cf6?logo=ai)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 
-> 🎓 Course materials and hands-on projects from Coursera's [Generative AI Software Engineering Specialization](https://www.coursera.org/specializations/generative-ai-software-engineering)
+Mastering the Future of Software Development with AI-Powered Tools. Building the Future with AI-Powered Development
+
+*Mastering modern software engineering through the lens of generative AI*
+
+**Specialization Link:** [Generative AI Software Engineering Specialization](https://www.coursera.org/specializations/generative-ai-software-engineering)
 
 ---
 
@@ -53,30 +51,6 @@ By exploring this repository, you'll understand:
 ✅ **Real-world development workflows** including version control and testing  
 ✅ **UI/UX best practices** for building user-friendly applications  
 ✅ **Performance optimization** and accessibility considerations  
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18.0 or later
-- Basic knowledge of React and TypeScript
-- Interest in AI-powered development
-
-### Quick Setup
-```bash
-# Clone the repository
-git clone <your-repo-url>
-
-# Navigate to project
-cd Generative-AI-Software-Engineering-Specialization
-
-# Explore the expense tracker
-cd expense-tracker-ai
-npm install
-npm run dev
-```
-
 
 ## 🤝 Contributing
 
