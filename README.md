@@ -18,101 +18,12 @@ This repository documents my comprehensive journey through DeepLearning.AI's **G
 
 # 📚 Courses Included
 
-1. [**Programming for Everybody (Getting Started with Python)**](https://www.coursera.org/learn/python?specialization=python)
-2. [**Python Data Structures**](https://www.coursera.org/learn/python-data?specialization=python)
-3. [**Using Python to Access Web Data**](https://www.coursera.org/learn/python-network-data?specialization=python)
-4. [**Using Databases with Python**](https://www.coursera.org/learn/python-databases?specialization=python)
-5. [**Capstone: Retrieving, Processing, and Visualizing Data with Python**](https://www.coursera.org/learn/python-data-visualization?specialization=python)
+1. Claude Code: Software Engineering with Generative AI Agents
+2. AI Agents and Agentic AI with Python & Generative AI
+3. Prompt Engineering for ChatGPT
+4. OpenAI GPTs: Creating Your Own Custom AI Assistants
 
-### 📚 Course 1: Claude Code: Software Engineering with Generative AI Agents
-**🎯 Foundation Course - 5 Hours**
 
-**Core Learning Objectives:**
-- Master Claude Code CLI for AI-assisted software development
-- Learn to integrate AI agents into your development workflow
-- Understand how to leverage generative AI for code generation and debugging
-- Build proficiency with AI-powered development environments
-
-**Key Skills Developed:**
-- 🤖 **AI Agent Integration**: Use Claude Code as your primary development assistant
-- 🔧 **CLI Mastery**: Command-line interface for efficient AI-assisted coding
-- ⚡ **Rapid Prototyping**: Quick application development with AI guidance
-- 🎯 **Agentic Workflows**: Implement AI agents for automated development tasks
-
-**Technologies Covered:**
-- Claude Code CLI
-- Generative AI Agents
-- AI-Assisted Development Workflows
-- Command-Line Tools
-
----
-
-### 🏗️ Course 2: AI Agents and Agentic AI with Python & Generative AI
-**🐍 Advanced AI Integration - 10 Hours**
-
-**Focus Areas:**
-- **Agentic AI Systems**: Build intelligent AI agents with Python
-- **LLM Integration**: Advanced techniques for working with large language models
-- **Autonomous Workflows**: Create self-directed AI development assistants
-- **Python Frameworks**: Leverage Python for AI agent development
-
-**Key Technologies:**
-- 🐍 **Python**: Core programming language for AI agents
-- 🤖 **Agentic AI**: Autonomous AI system development
-- 🧠 **LLM APIs**: Integration with ChatGPT, Claude, and other models
-- 🔄 **Workflow Automation**: Intelligent task automation
-
-**Practical Applications:**
-- Building custom AI development assistants
-- Automated code review and testing agents
-- Intelligent project management systems
-- AI-powered debugging and optimization tools
-
----
-
-### 🚀 Course 3: Prompt Engineering for ChatGPT
-**💬 Mastering AI Communication - 18 Hours**
-
-**Advanced Topics:**
-- **Prompt Design**: Craft effective prompts for software development tasks
-- **Context Management**: Maintain conversation context for complex projects
-- **Role-Based Prompting**: Use AI personas for specialized development roles
-- **Iterative Refinement**: Improve AI responses through strategic prompting
-
-**Core Skills:**
-- 📝 **Prompt Optimization**: Write prompts that generate high-quality code
-- 🎭 **AI Personas**: Leverage role-based AI for different development tasks
-- 🔄 **Iterative Development**: Use AI feedback loops for continuous improvement
-- 📊 **Context Engineering**: Manage complex project contexts effectively
-
-**Technologies & Frameworks:**
-- 💬 **ChatGPT**: Advanced prompting techniques
-- 🎯 **Prompt Templates**: Reusable prompt patterns for development
-- 🔧 **API Integration**: ChatGPT API for custom applications
-- 📋 **Context Management**: Strategies for maintaining conversation flow
-
----
-
-### 🎨 Course 4: OpenAI GPTs: Creating Your Own Custom AI Assistants
-**🛠️ Custom AI Development - 7 Hours**
-
-**Specialization Focus:**
-- **Custom GPT Creation**: Build specialized AI assistants for development tasks
-- **GPT Store Publishing**: Deploy and share your custom AI assistants
-- **Integration Strategies**: Connect GPTs with external tools and APIs
-- **Production Deployment**: Scale custom AI assistants for team use
-
-**Advanced Applications:**
-- 🎨 **Custom AI Assistants**: Build domain-specific development tools
-- 🏪 **GPT Store**: Publish and monetize your AI creations
-- 🔗 **API Integrations**: Connect GPTs with development tools
-- 📈 **Scaling Solutions**: Deploy AI assistants across development teams
-
-**Capstone Projects:**
-- 🛠️ **Custom Development GPT**: Specialized AI for your tech stack
-- 📊 **Project Management Assistant**: AI-powered team collaboration tool
-- 🔍 **Code Review GPT**: Automated code quality and security analysis
-- 🚀 **Deployment Assistant**: AI-guided application deployment and monitoring
 
 ---
 
