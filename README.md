@@ -84,8 +84,8 @@ Contributions are welcome! If you have improvements, additional solutions, or su
 
 ## 🙏 Credits
 
-- **DeepLearning.AI** for the [Generative AI for Software Development Professional Certificate](https://www.deeplearning.ai/courses/generative-ai-for-software-development/)
-- **Laurence Moroney** (Former AI Lead at Google) for his excellent instruction and guidance
+- **Vanderbilt University** for the [Generative AI Software Engineering Specialization](https://www.coursera.org/specializations/generative-ai-software-engineering)
+- **Dr. Jules White** for his excellent instruction and guidance
 - [Coursera](https://www.coursera.org/) for providing the learning platform
 
 ---
