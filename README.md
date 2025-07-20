@@ -16,104 +16,13 @@ This repository documents my comprehensive journey through DeepLearning.AI's **G
 - **Team Collaboration**: Scale AI tools across development teams
 - **System Design**: Architect scalable applications using AI guidance
 
-### 🎯 What You'll Find Here
+# 📚 Courses Included
 
-- **🔥 Real-world Projects**: Production-ready applications including expense trackers, e-commerce systems, and AI-powered apps
-- **📚 Learning Materials**: Comprehensive code examples, prompt engineering techniques, and AI integration patterns
-- **⚡ Modern Tech Stack**: Python, SQLAlchemy, Next.js, TypeScript, DALL-E API, and LLM integration
-- **🛠️ Practical Skills**: AI pair programming, system design, database management, and team collaboration
-- **🧠 AI Integration**: Hands-on experience with GPT-4, ChatGPT, and other cutting-edge AI tools
-
----
-
-## 📁 Repository Structure
-
-```
-📦 Generative-AI-Software-Engineering-Specialization/
-├── 💰 expense-tracker-ai/          # Feature-rich expense tracking application
-│   ├── 🏗️  src/                   # Source code with modern React patterns
-│   ├── 🎨 components/              # Reusable UI components
-│   ├── 🔧 hooks/                   # Custom React hooks
-│   └── 📊 Full dashboard & analytics
-├── 🌿 git-branches-tutorial/       # Git workflow and branching strategies
-│   ├── 🏠 index.html              # Sample website for Git practice
-│   ├── 📱 contact.html            # Contact page
-│   └── ✨ styles.css              # Styling demonstrations
-└── 📖 README.md                   # This comprehensive guide
-```
-
----
-
-## 🚀 Featured Project: ExpenseTracker AI
-
-> **A professional-grade personal finance management application**
-
-### ✨ Key Features
-
-🎯 **Smart Expense Management**
-- Add, edit, and categorize expenses with intelligent validation
-- Real-time filtering and search capabilities
-- Visual analytics with category breakdowns
-
-📊 **Analytics Dashboard**
-- Monthly spending insights and trends
-- Category-wise expense distribution
-- Recent transactions with quick actions
-
-💾 **Data Management**
-- Local storage persistence (demo-ready)
-- CSV export functionality
-- Responsive design for all devices
-
-### 🛠️ Technology Showcase
-
-- **⚡ Next.js 14** with App Router for modern React development
-- **🔷 TypeScript** for type-safe, maintainable code
-- **🎨 Tailwind CSS** for rapid, responsive UI development
-- **🎣 Custom Hooks** for clean state management
-- **♿ Accessibility-first** design principles
-
-### 🚀 Quick Start
-
-```bash
-# Navigate to the project
-cd expense-tracker-ai
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open http://localhost:3000
-```
-
----
-
-## 🌟 Learning Highlights
-
-### 🤖 AI-Powered Development
-- **Code Generation**: Using AI assistants for rapid prototyping
-- **Intelligent Debugging**: AI-powered error detection and resolution
-- **Documentation**: Auto-generated documentation and comments
-- **Testing**: AI-assisted test case generation
-
-### 🏗️ Modern Development Practices
-- **Component Architecture**: Modular, reusable React components
-- **Type Safety**: Comprehensive TypeScript implementation
-- **Responsive Design**: Mobile-first, accessible interfaces
-- **Version Control**: Professional Git workflows and branching strategies
-
-### 📈 Project Management
-- **Agile Methodologies**: Iterative development with AI tools
-- **Code Review**: AI-enhanced code quality assurance
-- **Deployment**: Modern CI/CD pipelines
-
----
-
-## 🎓 Complete Course Curriculum
-
-> **4 Comprehensive Courses | 40+ Hours | Claude Code: Software Engineering with Generative AI Agents**
+1. [**Programming for Everybody (Getting Started with Python)**](https://www.coursera.org/learn/python?specialization=python)
+2. [**Python Data Structures**](https://www.coursera.org/learn/python-data?specialization=python)
+3. [**Using Python to Access Web Data**](https://www.coursera.org/learn/python-network-data?specialization=python)
+4. [**Using Databases with Python**](https://www.coursera.org/learn/python-databases?specialization=python)
+5. [**Capstone: Retrieving, Processing, and Visualizing Data with Python**](https://www.coursera.org/learn/python-data-visualization?specialization=python)
 
 ### 📚 Course 1: Claude Code: Software Engineering with Generative AI Agents
 **🎯 Foundation Course - 5 Hours**
