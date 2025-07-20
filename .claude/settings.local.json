@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.coursera.org)",
+      "WebFetch(domain:www.deeplearning.ai)"
+    ],
+    "deny": []
+  }
+}
