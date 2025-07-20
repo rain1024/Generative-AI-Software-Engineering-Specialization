@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:www.coursera.org)",
-      "WebFetch(domain:www.deeplearning.ai)"
+      "WebFetch(domain:www.deeplearning.ai)",
+      "Bash(git:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(mkdir:*)",
+      "Bash(git rebase:*)",
+      "Bash(git reset:*)"
     ],
     "deny": []
   }
